@@ -13,7 +13,6 @@ window.addEventListener('keydown', (event) => {
             // move player to the right
             keys.d.pressed = true;
             break;
-
     }
 });
 
